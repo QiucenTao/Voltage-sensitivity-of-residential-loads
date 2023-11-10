@@ -1,4 +1,5 @@
-# Overview of Power-to-Voltage Sensitivity of Residential Loads
+# Dataset of Power-to-Voltage Sensitivity of Residential Loads
+Here we provide a dataset of time-varying voltage sensitivity of common residential loads based on experiments on actual loads.
 
 ### List of Loads Under Test
 | Load                   | Brand and Model       | Tested Operating Mode                                | 
