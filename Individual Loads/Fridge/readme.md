@@ -1,1 +1,3 @@
-#Fridge
+# Fridge
+
+![Fridge](../../img/Fridge.svg)
