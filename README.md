@@ -16,9 +16,9 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Induction stove        | Miele KM 5955          | Maximum power level                                  |
 | Laptop charger         | TOSHIBA PA3755U-1ACA   | As power supply                                      |
 | LED ceiling light      | --                     | Light on                                             |
+| Microwave oven         | Renkforce MM720Ca7-PM  | Cook mode power level 4                              |
 | Water kettle           | Clatronic WKS 3692     | Cook 1.5L water                                      |
 | Oven                   | Miele H5681BL          | Top and bottom heating, set temperature 280°C        |
-| Microwave oven         | Renkforce MM720Ca7-PM  | Cook mode power level 4                              |
 | Toaster                | Severin AT 2586L       | Maximum power level                                  |
 | Dishwasher             | Miele G 1834 SCI       | Quick wash 40°C                                      |
 | Vacuum cleaner         | Siemens VBBS607V00     | Smooth surface cleaning mode                         |
@@ -44,7 +44,7 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Induction stove            |  0.88    | 1.00      | 1.09      |  1.75    | 1.77      | 1.80      |    1926   |    1942    |  1964     |     274   |     285     |     290   |    600 s     |
 | Laptop charger             |  0.00    | 0.00      | 0.00      |  0.71    | 0.80      | 0.89      |    65     |    66      |  67       |     30    |     31      |     31    |    585 s     |
 | LED ceiling light          |  0.00    | 0.00      | 0.00      |  0.00    | 0.00      | 0.00      |    58     |    61      |  65       |     13    |     13      |     13    |    855 s     |
-
+| Microwave oven             |  1.15    | 1.19      | 1.22      |  2.95    | 3.15      | 3.26      |   1150    |    1168    |  1186     |     454   |     478     |     502   |    135 s     |
 
 
 
