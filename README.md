@@ -12,13 +12,13 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Freezer                | Liebherr GN 3056-29    | Set temperature -20°C                                |
 | Fridge                 | Bosch KG KIRR18A       | Maximum cooling level                                |
 | Hair dryer             | Impuls SL-805          | Maximum wind level, medium heat level                |
+| Halogen ceiling light set | --                  | Lights on                                            |
 | Induction stove        | Miele KM 5955          | Maximum power level                                  |
 | Water kettle           | Clatronic WKS 3692     | Cook 1.5L water                                      |
 | Oven                   | Miele H5681BL          | Top and bottom heating, set temperature 280°C        |
 | Microwave oven         | Renkforce MM720Ca7-PM  | Cook mode power level 4                              |
 | Toaster                | Severin AT 2586L       | Maximum power level                                  |
 | Dishwasher             | Miele G 1834 SCI       | Quick wash 40°C                                      |
-| Halogen ceiling light set | --                     | Lights on                                            |
 | Vacuum cleaner         | Siemens VBBS607V00     | Smooth surface cleaning mode                         |
 | Washing machine        | Miele 3985 WPS         | Cotton wash 1000rpm                                  |
 | Laptop charger         | TOSHIBA PA3755U-1ACA   | As power supply                                      |
