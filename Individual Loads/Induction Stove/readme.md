@@ -1,4 +1,4 @@
 # Induction Stove
 
 
-![HalogenLightSet](../../img/HalogenLightSet.svg)
+![InductionStove](../../img/InductionStove.svg)
