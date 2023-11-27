@@ -41,3 +41,4 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Fridge                     |  0.34    | 0.88      | 1.72      |  0.58    | 1.18      | 1.78      |    34     |    53      |  65       |     51    |     69      |     82    |    4409 s    |
 | Hair dryer                 |  1.99    | 1.99      | 1.99      |  0.00    | 0.00      | 0.00      |    1188   |    1191    |  1194     |     15    |     15      |     16    |    605 s     |
 | Halogen ceiling light set  |  0.00    | 0.00      | 0.00      |  1.78    | 1.79      | 1.81      |    541    |    548     |  553      |     112   |     113     |     114   |    300 s     |
+| Induction stove            |  0.88    | 1.00      | 1.09      |  1.75    | 1.77      | 1.80      |    1926   |    1942    |  1964     |     274   |     285     |     290   |    600 s     |
