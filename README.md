@@ -27,9 +27,9 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Oil radiator           | Clatronic RA 3735      | Set temperature 24°C                                 |
 
 ### Overview of Load Voltage Sensitivity Results
-|  Load                      |           |    Kpv    |           |          |    Kqv    |           |  Data Length |
-|----------------------------|-----------|-----------|-----------|----------|-----------|-----------|---------------|
-|                            | **min**   | **mean**  | **max**   | **min**  | **mean**  |  **max**  |               |
+|  Load                      |           |    Kpv    |           |          |    Kqv    |           |           |   P0 (W) |           |           |   Q0 (var)    |           |  Data Length |
+|----------------------------|-----------|-----------|-----------|----------|-----------|-----------|-----------|----------|-----------|-----------|---------------|-----------|--------------|
+|                            | **min**   | **mean**  | **max**   | **min**  | **mean**  |  **max**  | **min**   | **mean** | **max**   | **min**   | **mean**  |  **max**  |             |
 | Apartment                  |  0.00     | 0.87      | 1.98      |  0.00    | 1.15      | 1.91      |    5 hour     |
 | Apartment with aggregated Heater|  0.00   | 1.48    | 1.98      |  0.00    | 1.15   | 1.91        |    5 hour     |
 | Cloth dryer                |  1.10    | 1.73      | 2.01      |  0.00    | 0.53      | 1.30      |    6960 s      |
@@ -39,3 +39,4 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 |  Fan                       |  1.92    | 1.95      | 1.98      |  0.00    | 0.00      | 0.00      |     780 s      |
 |  Freezer                   |  0.20    | 0.30      | 0.50      |  0.00    | 0.00      | 0.00      |     3780 s     |
 |  Fridge                    |  0.34    | 0.88      | 1.72      |  0.58    | 1.18      | 1.78      |     4409 s     |
+|  Hair dryer                |  1.99    | 1.99      | 1.99      |  0.00    | 0.00      | 0.00      |  1188       |  1191   |  1194    | 15     |      15         |      16       |        605 s      |
