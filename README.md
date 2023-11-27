@@ -31,7 +31,7 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 |----------------------------|-----------|-----------|-----------|----------|-----------|-----------|-----------|------------|-----------|-----------|-------------|-----------|--------------|
 |                            | **min**   | **mean**  | **max**   | **min**  | **mean**  |  **max**  | **min**   | **mean**   | **max**   | **min**   |   **mean**  |  **max**  |              |
 | Apartment                  |  0.00     | 0.87      | 1.98      |  0.00    | 1.15      | 1.91      |  31       |    1399    |  5876     |    265    |   386       |   716     |   5 hour     |
-| Apartment with aggregated Heater|  0.00   | 1.48    | 1.98      |  0.00    | 1.15   | 1.91        |    5 hour     |
+| Apartment with aggregated Heater|  0.00   | 1.48    | 1.98     |  -       |    -      |    -      |    5 hour     |
 | Cloth dryer                |  1.10    | 1.73      | 2.01      |  0.00    | 0.53      | 1.30      |    6960 s      |
 | Cooker hood                |  2.19    | 2.21      | 2.22      |  2.76    | 2.77      | 2.79      |    750 s       |
 | Dishwasher                 |  0.00    | 0.55      | 1.94      |  0.00    | 1.01      | 2.79      |    2340 s      |
