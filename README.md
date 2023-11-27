@@ -14,6 +14,7 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Hair dryer             | Impuls SL-805          | Maximum wind level, medium heat level                |
 | Halogen ceiling light set | --                  | Lights on                                            |
 | Induction stove        | Miele KM 5955          | Maximum power level                                  |
+| Laptop charger         | TOSHIBA PA3755U-1ACA   | As power supply                                      |
 | Water kettle           | Clatronic WKS 3692     | Cook 1.5L water                                      |
 | Oven                   | Miele H5681BL          | Top and bottom heating, set temperature 280°C        |
 | Microwave oven         | Renkforce MM720Ca7-PM  | Cook mode power level 4                              |
@@ -21,7 +22,6 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Dishwasher             | Miele G 1834 SCI       | Quick wash 40°C                                      |
 | Vacuum cleaner         | Siemens VBBS607V00     | Smooth surface cleaning mode                         |
 | Washing machine        | Miele 3985 WPS         | Cotton wash 1000rpm                                  |
-| Laptop charger         | TOSHIBA PA3755U-1ACA   | As power supply                                      |
 | LED light              | --                     | Light on                                             |
 | Monitor                | Samsung BX2240         | Monitor on                                           |
 | Oil radiator           | Clatronic RA 3735      | Set temperature 24°C                                 |
@@ -42,3 +42,12 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Hair dryer                 |  1.99    | 1.99      | 1.99      |  0.00    | 0.00      | 0.00      |    1188   |    1191    |  1194     |     15    |     15      |     16    |    165 s     |
 | Halogen ceiling light set  |  0.00    | 0.00      | 0.00      |  1.78    | 1.79      | 1.81      |    541    |    548     |  553      |     112   |     113     |     114   |    300 s     |
 | Induction stove            |  0.88    | 1.00      | 1.09      |  1.75    | 1.77      | 1.80      |    1926   |    1942    |  1964     |     274   |     285     |     290   |    600 s     |
+| Laptop charger             |  0.00    | 0.00      | 0.00      |  0.71    | 0.80      | 0.89      |    65     |    66      |  67       |     30    |     31      |     31    |    585 s     |
+
+
+
+
+
+
+
+
