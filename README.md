@@ -38,3 +38,4 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 |  Electric hot plate        |  1.98    | 1.99      | 2.00      |  0.00    | 0.00      | 0.00      |     765 s      |
 |  Fan                       |  1.92    | 1.95      | 1.98      |  0.00    | 0.00      | 0.00      |     780 s      |
 |  Freezer                   |  0.20    | 0.30      | 0.50      |  0.00    | 0.00      | 0.00      |     3780 s     |
+|  Fridge                    |  0.34    | 0.88      | 1.72      |  0.58    | 1.18      | 1.78      |     4409 s     |
