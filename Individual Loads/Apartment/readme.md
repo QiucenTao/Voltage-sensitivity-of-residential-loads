@@ -21,4 +21,4 @@ To observe how the power profile changes if an electrical heater is used for hea
 
 The aggregation is only conducted for active power as the reactive power of the electrical heater is very low. The aggregated power profile and Kpv profile can be observed below
 
-![Apartment_Sensitivit_Profile_WithoutHeater](../../img/Apartment_AggHeater.svg)
+![Apartment_Sensitivit_Profile_WithoutHeater](../z_Sensitivity_img/Apartment_AggHeater.svg)
