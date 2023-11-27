@@ -13,7 +13,7 @@ The time-varying voltage sensitivity of an apartment is shown in the figure belo
 - Another cooking phase for dinner preparation occurs in the fifth time slot, during which the oven, induction stove, and cooker hood are used. The oven causes frequent and large active power and Kpv variation, which will not be overseen with minute range resolution.
 - The last time slot is similar to the first one with fewer halogen lights turning on.
   
-![Apartment_Sensitivit_Profile_WithoutHeater](../../img/Apartment_WithoutHeater.svg)
+![Apartment_Sensitivit_Profile_WithoutHeater](../z_Sensitivity_img/Apartment_WithoutHeater.svg)
 
 
 ## Scenario 2: Aggregate an Electrical Heater to the Power Profile
