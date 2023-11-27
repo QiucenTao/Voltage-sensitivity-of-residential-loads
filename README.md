@@ -17,13 +17,13 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Laptop charger         | TOSHIBA PA3755U-1ACA   | As power supply                                      |
 | LED ceiling light      | --                     | Light on                                             |
 | Microwave oven         | Renkforce MM720Ca7-PM  | Cook mode power level 4                              |
+| Monitor                | Samsung BX2240         | Monitor on                                           |
 | Water kettle           | Clatronic WKS 3692     | Cook 1.5L water                                      |
 | Oven                   | Miele H5681BL          | Top and bottom heating, set temperature 280°C        |
 | Toaster                | Severin AT 2586L       | Maximum power level                                  |
 | Dishwasher             | Miele G 1834 SCI       | Quick wash 40°C                                      |
 | Vacuum cleaner         | Siemens VBBS607V00     | Smooth surface cleaning mode                         |
 | Washing machine        | Miele 3985 WPS         | Cotton wash 1000rpm                                  |
-| Monitor                | Samsung BX2240         | Monitor on                                           |
 | Oil radiator           | Clatronic RA 3735      | Set temperature 24°C                                 |
 
 ### Overview of Load Voltage Sensitivity Results
@@ -45,7 +45,7 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Laptop charger             |  0.00    | 0.00      | 0.00      |  0.71    | 0.80      | 0.89      |    65     |    66      |  67       |     30    |     31      |     31    |    585 s     |
 | LED ceiling light          |  0.00    | 0.00      | 0.00      |  0.00    | 0.00      | 0.00      |    58     |    61      |  65       |     13    |     13      |     13    |    855 s     |
 | Microwave oven             |  1.15    | 1.19      | 1.22      |  2.95    | 3.15      | 3.26      |   1150    |    1168    |  1186     |     454   |     478     |     502   |    135 s     |
-
+| Monitor                    |  0.12    | 0.19      | 0.34      |  0.31    | 0.65      | 0.88      |   26      |    27      |  28       |     52    |     55      |     57    |    1050 s    |
 
 
 
