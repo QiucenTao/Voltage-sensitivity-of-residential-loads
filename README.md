@@ -9,20 +9,20 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Dishwasher             | Miele G 1834 SCI       | Quick wash 40°C                                      |
 | Electric hot plate     | Clatronic EKP 3582     | Maximum power level                                  |
 | Fan                    | BaseTech VE-5985BT     | Maximum power level with head shaking                |
+| Freezer                | Liebherr GN 3056-29    | Set temperature -20°C                                |
+| Fridge                 | Bosch KG KIRR18A       | Maximum cooling level                                |
+| Hair dryer             | Impuls SL-805          | Maximum wind level, medium heat level                |
 | Induction stove        | Miele KM 5955          | Maximum power level                                  |
 | Water kettle           | Clatronic WKS 3692     | Cook 1.5L water                                      |
 | Oven                   | Miele H5681BL          | Top and bottom heating, set temperature 280°C        |
-| Hair dryer             | Impuls SL-805          | Maximum wind level, medium heat level                |
 | Microwave oven         | Renkforce MM720Ca7-PM  | Cook mode power level 4                              |
 | Toaster                | Severin AT 2586L       | Maximum power level                                  |
 | Dishwasher             | Miele G 1834 SCI       | Quick wash 40°C                                      |
-| Halogen ceiling lights | --                     | Lights on                                            |
+| Halogen ceiling light set | --                     | Lights on                                            |
 | Vacuum cleaner         | Siemens VBBS607V00     | Smooth surface cleaning mode                         |
 | Washing machine        | Miele 3985 WPS         | Cotton wash 1000rpm                                  |
-| Freezer                | Liebherr GN 3056-29    | Set temperature -20°C                                |
 | Laptop charger         | TOSHIBA PA3755U-1ACA   | As power supply                                      |
 | LED light              | --                     | Light on                                             |
-| Fridge                 | Bosch KG KIRR18A       | Maximum cooling level                                |
 | Monitor                | Samsung BX2240         | Monitor on                                           |
 | Oil radiator           | Clatronic RA 3735      | Set temperature 24°C                                 |
 
@@ -35,8 +35,9 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Cloth dryer                |  1.10    | 1.73      | 2.01      |  0.00    | 0.53      | 1.30      |    97     |    1268    |  2777     |     25    |     56      |     76    |    6960 s    |
 | Cooker hood                |  2.19    | 2.21      | 2.22      |  2.76    | 2.77      | 2.79      |    121    |    122     |  123      |     90    |     92      |     93    |    750 s     |
 | Dishwasher                 |  0.00    | 0.55      | 1.94      |  0.00    | 1.01      | 2.79      |    8      |    557     |  2025     |     18    |     79      |     114   |    2340 s    |
-|  Electric hot plate        |  1.98    | 1.99      | 2.00      |  0.00    | 0.00      | 0.00      |    1449   |    1461    |  1470     |     12    |     12      |     13    |    765 s     |
-|  Fan                       |  1.92    | 1.95      | 1.98      |  0.00    | 0.00      | 0.00      |    39     |    40      |  42       |     2     |     2       |     3     |    780 s     |
-|  Freezer                   |  0.20    | 0.30      | 0.50      |  0.00    | 0.00      | 0.00      |    93     |    138     |  160      |     18    |     22      |     26    |    3780 s    |
-|  Fridge                    |  0.34    | 0.88      | 1.72      |  0.58    | 1.18      | 1.78      |    34     |    53      |  65       |     51    |     69      |     82    |    4409 s    |
-|  Hair dryer                |  1.99    | 1.99      | 1.99      |  0.00    | 0.00      | 0.00      |    1188   |    1191    |  1194     |     15    |     15      |     16    |    605 s     |
+| Electric hot plate         |  1.98    | 1.99      | 2.00      |  0.00    | 0.00      | 0.00      |    1449   |    1461    |  1470     |     12    |     12      |     13    |    765 s     |
+| Fan                        |  1.92    | 1.95      | 1.98      |  0.00    | 0.00      | 0.00      |    39     |    40      |  42       |     2     |     2       |     3     |    780 s     |
+| Freezer                    |  0.20    | 0.30      | 0.50      |  0.00    | 0.00      | 0.00      |    93     |    138     |  160      |     18    |     22      |     26    |    3780 s    |
+| Fridge                     |  0.34    | 0.88      | 1.72      |  0.58    | 1.18      | 1.78      |    34     |    53      |  65       |     51    |     69      |     82    |    4409 s    |
+| Hair dryer                 |  1.99    | 1.99      | 1.99      |  0.00    | 0.00      | 0.00      |    1188   |    1191    |  1194     |     15    |     15      |     16    |    605 s     |
+| Halogen ceiling light set  |  0.00    | 0.00      | 0.00      |  1.78    | 1.79      | 1.81      |    541    |    548     |  553      |     112   |     113     |     114   |    300 s     |
