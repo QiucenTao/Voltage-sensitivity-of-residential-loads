@@ -5,17 +5,17 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Load                   | Brand and Model       | Tested Operating Mode                                | 
 |------------------------|------------------------|------------------------------------------------------|
 | Condenser cloth dryer  | Miele T 8687 C         | Gentle cycle                                         |
-| Cooker hood            | IKEA                   | Extraction level: medium                             |
+| Cooker hood            | IKEA <sup>b</sup>      | Extraction level: medium                             |
 | Dishwasher             | Miele G 1834 SCI       | Quick wash 40°C                                      |
 | Electric hot plate     | Clatronic EKP 3582     | Maximum power level                                  |
 | Fan                    | BaseTech VE-5985BT     | Maximum power level with head shaking                |
 | Freezer                | Liebherr GN 3056-29    | Set temperature -20°C                                |
 | Fridge                 | Bosch KG KIRR18A       | Maximum cooling level                                |
 | Hair dryer             | Impuls SL-805          | Maximum wind level, medium heat level                |
-| Halogen ceiling light set | --                  | Lights on                                            |
+| Halogen ceiling light set | --<sup>a</sup>      | Lights on                                            |
 | Induction stove        | Miele KM 5955          | Maximum power level                                  |
 | Laptop charger         | TOSHIBA PA3755U-1ACA   | As power supply                                      |
-| LED ceiling light      | --                     | Light on                                             |
+| LED ceiling light      | --<sup>a</sup>         | Light on                                             |
 | Microwave oven         | Renkforce MM720Ca7-PM  | Cook mode power level 4                              |
 | Monitor                | Samsung BX2240         | Monitor on                                           |
 | Water kettle           | Clatronic WKS 3692     | Cook 1.5L water                                      |
@@ -25,6 +25,9 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Vacuum cleaner         | Siemens VBBS607V00     | Smooth surface cleaning mode                         |
 | Washing machine        | Miele 3985 WPS         | Cotton wash 1000rpm                                  |
 | Oil radiator           | Clatronic RA 3735      | Set temperature 24°C                                 |
+
+<sup>a</sup> No information available  
+<sup>b</sup> Model number not available
 
 ### Overview of Load Voltage Sensitivity Results
 |  Load                      |          |    Kpv    |           |          |    Kqv    |           |           |   P0 (W)   |           |           |   Q0 (var)  |           |  Data Length |
