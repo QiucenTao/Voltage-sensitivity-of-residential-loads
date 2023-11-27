@@ -37,3 +37,4 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Dishwasher                 |  0.00    | 0.55      | 1.94      |  0.00    | 1.01      | 2.79      |    2340 s      |
 |  Electric hot plate        |  1.98    | 1.99      | 2.00      |  0.00    | 0.00      | 0.00      |     765 s      |
 |  Fan                       |  1.92    | 1.95      | 1.98      |  0.00    | 0.00      | 0.00      |     780 s      |
+|  Freezer                   |  0.20    | 0.30      | 0.50      |  0.00    | 0.00      | 0.00      |     3780 s     |
