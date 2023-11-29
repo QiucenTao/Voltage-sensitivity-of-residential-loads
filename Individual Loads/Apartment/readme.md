@@ -19,6 +19,6 @@ The time-varying voltage sensitivity of an apartment is shown in the figure belo
 ## Scenario 2: Aggregate an Electrical Heater to the Power Profile
 To observe how the power profile changes if an electrical heater is used for heating in winter, which is quite common for countries such as France.
 
-The aggregation is only conducted for active power as the reactive power of the electrical heater is very low. The aggregated power profile and Kpv profile can be observed below
+The aggregation is only conducted for active power as the reactive power of the electrical heater is very low. The aggregated power profile and $K_{pv}$ profile can be observed below
 
 ![Apartment_Sensitivit_Profile_WithoutHeater](../z_Sensitivity_img/Apartment_AggHeater.svg)
