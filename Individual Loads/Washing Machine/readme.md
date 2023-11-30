@@ -1,3 +1,5 @@
 #     Washing Machine
 
-An operating cycle of a wahing machine is usually composed of several operating phases, such as a washing phase with heating element on, a 
+An operating cycle of a washing machine is usually composed of several operating phases, such as a pre-wash and heat-up phase, a laundry phase, and a drying phase. 
+
+![WashingMachine](../z_Sensitivity_img/WashingMachine.svg)
