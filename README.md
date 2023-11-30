@@ -21,9 +21,8 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Oil radiator           | Clatronic RA 3735      | Set temperature 24°C                                 |
 | Oven                   | Miele H5681BL          | Top and bottom heating, set temperature 280°C        |
 | Toaster                | Severin AT 2586L       | Maximum power level                                  |
-| Water kettle           | Clatronic WKS 3692     | Cook 1.5L water                                      |
-| Dishwasher             | Miele G 1834 SCI       | Quick wash 40°C                                      |
 | Vacuum cleaner         | Siemens VBBS607V00     | Smooth surface cleaning mode                         |
+| Water kettle           | Clatronic WKS 3692     | Cook 1.5L water                                      |
 | Washing machine        | Miele 3985 WPS         | Cotton wash 1000rpm                                  |
 
 
@@ -53,6 +52,7 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Oil radiator               |  1.98    | 1.98      | 1.98      |  0.00    | 0.00      | 0.00      |    1490   |    1494    |  1499     |     11    |     12      |     12    |    2085 s    |
 | Oven                       |  1.73    | 1.92      | 1.98      |  1.54    | 2.69      | 3.04      |    52     |    2128    |  3621     |     22    |     40      |     55    |    720 s     |
 | Toaster                    |  1.98    | 1.98      | 1.98      |  0.00    | 0.00      | 0.00      |    735    |    736     |  738      |     9     |     9       |     10    |    75 s      |
+| Vacuum cleaner             |  4.75    | 4.88      | 5.06      |  3.46    | 3.63      | 3.85      |    325    |    336     |  340      |     396   |     413     |     418   |    285 s     |
 
 
 
