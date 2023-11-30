@@ -55,6 +55,7 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 | Toaster                    |  1.98    | 1.98      | 1.98      |  0.00    | 0.00      | 0.00      |    735    |    736     |  738      |     9     |     9       |     10    |    75 s      |
 | Vacuum cleaner             |  4.75    | 4.88      | 5.06      |  3.46    | 3.63      | 3.85      |    325    |    336     |  340      |     396   |     413     |     418   |    285 s     |
 | Washing machine            |  0.00    | 0.08      | 2.06      |  0.00    | 0.06      | 1.76      |    8      |    181     |  2142     |     19    |     107     |     664   |    4305 s    |
+| Water kettle               |  1.98    | 1.98      |  1.99    | 1.99      | 1.99      |    2      |    1870   |    1873    |  1879     |     133   |     134     |     135   |    255 s     |
 
 
 
