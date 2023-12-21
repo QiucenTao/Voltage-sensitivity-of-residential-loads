@@ -1,7 +1,7 @@
 # Dataset of Power-to-Voltage Sensitivity of Residential Loads
 Here we provide a dataset of time-varying voltage sensitivity of common residential loads. The results are based on experiments on actual loads under realistic operation. The loads under test, their brand and model, and the specific operating mode selected for testing are provided in the table below.
 
-### List of Loads Under Test
+### Table I. List of Loads Under Test
 | Load                   | Brand and Model       | Tested Operating Mode                                | 
 |------------------------|------------------------|------------------------------------------------------|
 | Condenser cloth dryer  | Miele T 8687 C         | Gentle cycle                                         |
@@ -30,7 +30,7 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 <sup>a</sup> No information available  
 <sup>b</sup> Model number not available
 
-### Overview of Load Voltage Sensitivity Results
+### Table II. Overview of Load Voltage Sensitivity Results
 |  Load                      |          |    Kpv    |           |          |    Kqv    |           |           |   P0 (W)   |           |           |   Q0 (var)  |           |  Data Length |
 |----------------------------|----------|-----------|-----------|----------|-----------|-----------|-----------|------------|-----------|-----------|-------------|-----------|--------------|
 |                            | **min**  | **mean**  | **max**   | **min**  | **mean**  |  **max**  | **min**   | **mean**   | **max**   | **min**   |   **mean**  |  **max**  |              |
