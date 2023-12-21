@@ -3,6 +3,8 @@ Here we provide a dataset of time-varying voltage sensitivity of common resident
 
 The voltage sensitivity of a load is calculated every 15 seconds during the operation and the minimum, maximum, and average values and the respective operating power are provided in Table II.  The table provides information on e.g. the range of the voltage sensitivity and the sensitivity impact of each load on the power system, according to the power consumption.
 
+
+
 ### Table I. List of Loads Under Test
 | Load                   | Brand and Model       | Tested Operating Mode                                | 
 |------------------------|------------------------|------------------------------------------------------|
