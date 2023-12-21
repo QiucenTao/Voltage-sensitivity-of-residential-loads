@@ -1,7 +1,7 @@
 # Dataset of Power-to-Voltage Sensitivity of Residential Loads
-Here we provide a dataset of time-varying voltage sensitivity of common residential loads. The results are based on experiments on actual loads under realistic operation. The loads under test, their brand and model, and the specific operating mode selected for testing are provided in Table I. Kpv and Kqv represent the active power and reactive power-to-voltage sensitivity respectively. 
+Here we provide a dataset of time-varying voltage sensitivity of common residential loads. The results are based on experiments on actual loads under realistic operation. The loads under test, their brand and model, and the specific operating mode selected for testing are provided in Table I. 
 
-The voltage sensitivity of a load is calculated every 15 seconds during the operation and the minimum, maximum, and average values and the respective operating power are provided in Table II.  The table provides information on e.g. the range of the voltage sensitivity and the sensitivity impact of each load on the power system, according to the power consumption.
+The voltage sensitivity of a load is calculated every 15 seconds during the operation and the minimum, maximum, and average values and the respective operating power are provided in Table II. Kpv and Kqv represent the active power and reactive power-to-voltage sensitivity respectively. The table provides information on e.g. the range of the voltage sensitivity and the sensitivity impact of each load on the power system, according to the power consumption.
 
 The dataset of sensitivity profiles can be found in the "Sensitivity Dataset" folder. Detailed explanations of the sensitivity profiles of each load are provided in the "Individual Loads" folder.
 
