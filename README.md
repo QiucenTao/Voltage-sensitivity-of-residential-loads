@@ -1,5 +1,5 @@
 # Dataset of Power-to-Voltage Sensitivity of Residential Loads
-Here we provide a dataset of time-varying voltage sensitivity of common residential loads based on experiments on actual loads.
+Here we provide a dataset of time-varying voltage sensitivity of common residential loads. The results are based on experiments on actual loads under realistic operation. The loads under test, their brand and model, and the specific operating mode selected for testing are provided in the table below.
 
 ### List of Loads Under Test
 | Load                   | Brand and Model       | Tested Operating Mode                                | 
