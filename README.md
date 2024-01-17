@@ -6,6 +6,7 @@ version v1.0.0 (last update date: 01.11.2023) can be found [here](https://github
 **What's new in v2.0.0:**
 * a detailed explanation of the load behavior during the tested scenario is provided in the "Individual Loads" folder   
 * updated the voltage sensitivity profile data, provide the new data as csv files in the "Sensitivity Dataset" folder
+* the average sensitivity, rated power values, and the range of the voltage and operating power, namely the maximum and minimum values during the tested scenarios are provided.
 
 Here we provide a dataset of time-varying voltage sensitivity of common residential loads. The results are based on experiments on actual loads under realistic operation. The loads under test, their brand and model, and the specific operating mode selected for testing are provided in Table I. 
 
