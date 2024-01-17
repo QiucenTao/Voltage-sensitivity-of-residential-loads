@@ -1,8 +1,9 @@
 # Dataset of Power-to-Voltage Sensitivity of Residential Loads v2.0.0
 updated: 22.12.2023
 
-version v1.0.0 updated on 01.11.2023 can be found here: https://github.com/QiucenTao/Voltage-sensitivity-of-residential-loads/tree/branch-v1.0.0
-What's new in v2.0.0:
+version v1.0.0 updated on 01.11.2023 can be found [here](https://github.com/QiucenTao/Voltage-sensitivity-of-residential-loads/tree/branch-v1.0.0)
+
+## What's new in v2.0.0:
 
 
 Here we provide a dataset of time-varying voltage sensitivity of common residential loads. The results are based on experiments on actual loads under realistic operation. The loads under test, their brand and model, and the specific operating mode selected for testing are provided in Table I. 
