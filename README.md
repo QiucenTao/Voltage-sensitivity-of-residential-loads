@@ -3,7 +3,7 @@ updated: 22.12.2023
 
 version v1.0.0 updated on 01.11.2023 can be found [here](https://github.com/QiucenTao/Voltage-sensitivity-of-residential-loads/tree/branch-v1.0.0)
 
-What's new in v2.0.0:
+**What's new in v2.0.0:**
 * a detailed explanation of the load behavior during the tested scenario is provided in the "Individual Loads" folder   
 * updated the voltage sensitivity profile data, provide the new data as csv files in the "Sensitivity Dataset" folder
 
