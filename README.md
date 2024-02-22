@@ -3,6 +3,8 @@ updated: 22.12.2023
 
 This repository provides time-varying voltage sensitivity profiles of common residential loads. The results are obtained through experiments on actual appliances operating under realistic conditions. 
 
+The power-to-voltage sensitivity describes how the load power consumption changes when the voltage changes. It provides the ratio of power variation (in percentage) to voltage variation (in percentage).
+
 ## Versions
 version v1.0.0 (last update date: 01.11.2023) can be found [here](https://github.com/QiucenTao/Voltage-sensitivity-of-residential-loads/tree/branch-v1.0.0)
 
