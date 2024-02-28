@@ -1,5 +1,5 @@
 # Dataset of Power-to-Voltage Sensitivity of Residential Loads v2.0.0
-updated: 22.12.2023
+updated: 28.02.2024
 
 This repository provides time-varying voltage sensitivity profiles of common residential loads. The results are obtained through experiments on actual appliances operating under realistic conditions. 
 
@@ -9,6 +9,7 @@ The power-to-voltage sensitivity describes how the load power consumption change
 version v1.0.0 (last update date: 01.11.2023) can be found [here](https://github.com/QiucenTao/Voltage-sensitivity-of-residential-loads/tree/branch-v1.0.0)
 
 **What's new in v2.0.0:**
+* new loads added
 * a detailed explanation of the load behavior during the tested scenario is provided in the "Individual Loads" folder   
 * updated the voltage sensitivity profile data, provide the new data as csv files in the "Sensitivity Dataset" folder
 * the average sensitivity, rated power values, and the range of the voltage and operating power, namely the maximum and minimum values during the tested scenarios are provided.
@@ -22,6 +23,7 @@ The loads under test, their brand and model, and the specific operating mode sel
 ### Table I. List of Loads Under Test
 | Load                   | Brand and Model       | Tested Operating Mode                                | 
 |------------------------|------------------------|------------------------------------------------------|
+| Air Conditioner        | KOENIC KAC 9022 B WLAN | Cooling with maximum wind level, set temperature 17°C|
 | Condenser cloth dryer  | Miele T 8687 C         | Gentle cycle                                         |
 | Cooker hood            | IKEA <sup>b</sup>      | Extraction level: medium                             |
 | Dishwasher             | Miele G 1834 SCI       | Quick wash 40°C                                      |
@@ -54,6 +56,7 @@ The loads under test, their brand and model, and the specific operating mode sel
 |                            | **min**  | **mean**  | **max**   | **min**  | **mean**  |  **max**  | **min**   | **mean**   | **max**   | **min**   |   **mean**  |  **max**  |              |
 | Apartment                  |  0.00    | 0.87      | 1.98      |  0.00    | 1.15      | 1.91      |    32     |    1399    |  5876     |    265    |     386     |    716    |   5 hour     |
 | Apartment with aggregated Heater|  0.00   | 1.48    | 1.98     |  -       |    -      |    -     |    32     |    2618    |  7368     |     -     |     -       |     -     |   5 hour     |
+| Air Conditioner            |  0.30    | 0.32      | 0.36      |  2.52    | 2.76      | 2.93      |    904    |    924     |  933      |     126   |     129     |     131   |    4530 s    |
 | Cloth dryer                |  1.10    | 1.73      | 2.01      |  0.00    | 0.53      | 1.30      |    97     |    1268    |  2777     |     25    |     56      |     76    |    6960 s    |
 | Cooker hood                |  2.19    | 2.21      | 2.22      |  2.76    | 2.77      | 2.79      |    121    |    122     |  123      |     90    |     92      |     93    |    750 s     |
 | Dishwasher                 |  0.00    | 0.55      | 1.94      |  0.00    | 1.01      | 2.79      |    8      |    557     |  2025     |     18    |     79      |     114   |    2340 s    |
