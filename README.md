@@ -1,9 +1,10 @@
 # Dataset of Power-to-Voltage Sensitivity of Residential Loads v2.0.0
-updated: 22.12.2023
+updated: 28.02.2024
 
 version v1.0.0 (last update date: 01.11.2023) can be found [here](https://github.com/QiucenTao/Voltage-sensitivity-of-residential-loads/tree/branch-v1.0.0)
 
 **What's new in v2.0.0:**
+* new loads added
 * a detailed explanation of the load behavior during the tested scenario is provided in the "Individual Loads" folder   
 * updated the voltage sensitivity profile data, provide the new data as csv files in the "Sensitivity Dataset" folder
 * the average sensitivity, rated power values, and the range of the voltage and operating power, namely the maximum and minimum values during the tested scenarios are provided.
@@ -17,6 +18,7 @@ The voltage sensitivity of a load is calculated every 15 seconds during the oper
 ### Table I. List of Loads Under Test
 | Load                   | Brand and Model       | Tested Operating Mode                                | 
 |------------------------|------------------------|------------------------------------------------------|
+| Air Conditioner        | KOENIC KAC 9022 B WLAN | Cooling with maximum wind level, set temperature 17°C|
 | Condenser cloth dryer  | Miele T 8687 C         | Gentle cycle                                         |
 | Cooker hood            | IKEA <sup>b</sup>      | Extraction level: medium                             |
 | Dishwasher             | Miele G 1834 SCI       | Quick wash 40°C                                      |
