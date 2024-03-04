@@ -51,7 +51,7 @@ The loads under test, their brand and model, and the specific operating mode sel
 <sup>b</sup> Model number not available
 
 ### Table II. Overview of Load Voltage Sensitivity Results
-|  Load                      |          |    $K_p^v$    |           |          |    $K_p^v$    |           |           |   P0 (W)   |           |           |   Q0 (var)  |           |  Data Length |
+|  Load                      |          |    Kpv    |           |          |    Kqv    |           |           |   P0 (W)   |           |           |   Q0 (var)  |           |  Data Length |
 |----------------------------|----------|-----------|-----------|----------|-----------|-----------|-----------|------------|-----------|-----------|-------------|-----------|--------------|
 |                            | **min**  | **mean**  | **max**   | **min**  | **mean**  |  **max**  | **min**   | **mean**   | **max**   | **min**   |   **mean**  |  **max**  |              |
 | Apartment                  |  0.00    | 0.87      | 1.98      |  0.00    | 1.15      | 1.91      |    32     |    1399    |  5876     |    265    |     386     |    716    |   5 hour     |
