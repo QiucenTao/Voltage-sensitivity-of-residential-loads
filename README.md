@@ -3,23 +3,23 @@ updated: 28.02.2024
 
 This repository provides time-varying voltage sensitivity profiles of common residential loads. The results are obtained through experiments on actual appliances operating under realistic conditions. 
 
-The power-to-voltage sensitivity describes how the load power consumption changes when the voltage changes. It provides the ratio of power variation (in percentage) to voltage variation (in percentage).
+The power-to-voltage sensitivity, $K_p^v$ or $K_q^v$, describes how the load power consumption changes when the voltage magnitude changes. It provides the ratio of power variation (in percentage) to voltage variation (in percentage).
 
 ## Versions
 version v1.0.0 (last update date: 01.11.2023) can be found [here](https://github.com/QiucenTao/Voltage-sensitivity-of-residential-loads/tree/branch-v1.0.0)
 
 **What's new in v2.0.0:**
-* new loads added
+* update the database with voltage sensitivity profiles of new loads, e.g. an air conditioner
 * a detailed explanation of the load behavior during the tested scenario is provided in the "Individual Loads" folder   
-* updated the voltage sensitivity profile data, provide the new data as csv files in the "Sensitivity Dataset" folder
-* the average sensitivity, rated power values, and the range of the voltage and operating power, namely the maximum and minimum values during the tested scenarios are provided.
+* the voltage sensitivity profile is provided in both csv and mat format in the "Sensitivity Dataset" folder
+* in Table II below, the min and max value of the voltage sensitivity and power is added. 
 
 ## Contact
 Qiucen Tao (qiucen.tao@kit.edu)
 
 ## Dataset Overview
 
-The loads under test, their brand and model, and the specific operating mode selected for testing are provided in Table I. The voltage sensitivity of a load is calculated every 15 seconds during the operation and the minimum, maximum, and average values and the respective operating power are provided in Table II. Kpv and Kqv represent the active power and reactive power-to-voltage sensitivity respectively. The table provides information on e.g. the range of the voltage sensitivity and the sensitivity impact of each load on the power system, according to the power consumption.
+The loads under test, their brand and model, and the specific operating mode selected for testing are provided in Table I. The voltage sensitivity of a load is calculated every 15 seconds during the operation and the minimum, maximum, and average values and the respective operating power are provided in Table II. $K_p^v$ and $K_q^v$ represent the active power and reactive power-to-voltage sensitivity respectively. The table provides information on e.g. the range of the voltage sensitivity and the sensitivity impact of each load on the power system, according to the power consumption.
 ### Table I. List of Loads Under Test
 | Load                   | Brand and Model       | Tested Operating Mode                                | 
 |------------------------|------------------------|------------------------------------------------------|
