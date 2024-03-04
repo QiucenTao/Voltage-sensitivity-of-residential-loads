@@ -12,7 +12,7 @@ version v1.0.0 (last update date: 01.11.2023) can be found [here](https://github
 * update the database with voltage sensitivity profiles of new loads, e.g. an air conditioner
 * a detailed explanation of the load behavior during the tested scenario is provided in the "Individual Loads" folder   
 * the voltage sensitivity profile is provided in both csv and mat format in the "Sensitivity Dataset" folder
-* in Table II below, the min and max value of the voltage sensitivity and power is added. 
+* in Table II below, the minimum and maximum values of the voltage sensitivity and power are added to show the range of the voltage sensitivity during a certain operation mode. 
 
 ## Contact
 Qiucen Tao (qiucen.tao@kit.edu)
