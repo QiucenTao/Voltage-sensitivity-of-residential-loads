@@ -3,7 +3,7 @@ updated: 28.02.2024
 
 This repository provides time-varying voltage sensitivity profiles of common residential loads. The results are obtained through experiments on actual appliances operating under realistic conditions. 
 
-The power-to-voltage sensitivity, $K_p^v$ or $K_q^v$, describes how the load power consumption changes when the voltage magnitude changes. It provides the ratio of power variation (in percentage) to voltage variation (in percentage).
+The power-to-voltage sensitivity, $n_{pv}$ or $n_{qv}$, describes how the load power consumption changes when the voltage magnitude changes. It provides the ratio of power variation (in percentage) to voltage variation (in percentage).
 
 ## Versions
 version v1.0.0 (last update date: 01.11.2023) can be found [here](https://github.com/QiucenTao/Voltage-sensitivity-of-residential-loads/tree/branch-v1.0.0)
@@ -51,7 +51,7 @@ The loads under test, their brand and model, and the specific operating mode sel
 <sup>b</sup> Model number not available
 
 ### Table II. Overview of Load Voltage Sensitivity Results
-|  Load                      |          |  $K_p^v$  |           |          |  $K_q^v$  |           |           |  $P_0$ (W) |           |           | $Q_0$ (var) |           |  Data Length |
+|  Load                      |          |  $n_{pv}$  |           |          |  $n_{qv}$  |           |           |  $P_0$ (W) |           |           | $Q_0$ (var) |           |  Data Length |
 |----------------------------|----------|-----------|-----------|----------|-----------|-----------|-----------|------------|-----------|-----------|-------------|-----------|--------------|
 |                            | **min**  | **mean**  | **max**   | **min**  | **mean**  |  **max**  | **min**   | **mean**   | **max**   | **min**   |   **mean**  |  **max**  |              |
 | Apartment                  |  0.00    | 0.87      | 1.98      |  0.00    | 1.15      | 1.91      |    32     |    1399    |  5876     |    265    |     386     |    716    |   5 hour     |
