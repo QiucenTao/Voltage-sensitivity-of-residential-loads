@@ -19,7 +19,7 @@ Qiucen Tao (qiucen.tao@kit.edu)
 
 ## Dataset Overview
 
-The loads under test, their brand and model, and the specific operating mode selected for testing are provided in Table I. The voltage sensitivity of a load is calculated every 15 seconds during the operation and the minimum, maximum, and average values and the respective operating power are provided in Table II. $K_p^v$ and $K_q^v$ represent the active power and reactive power-to-voltage sensitivity respectively. The table provides information on e.g. the range of the voltage sensitivity and the sensitivity impact of each load on the power system, according to the power consumption.
+The loads under test, their brand and model, and the specific operating mode selected for testing are provided in Table I. The voltage sensitivity of a load is calculated every 15 seconds during the operation and the minimum, maximum, and average values and the respective operating power are provided in Table II. $n_{pv}$ and $n_{qv}$ represent the active power and reactive power-to-voltage sensitivity respectively. The table provides information on e.g. the range of the voltage sensitivity and the sensitivity impact of each load on the power system, according to the power consumption.
 ### Table I. List of Loads Under Test
 | Load                   | Brand and Model       | Tested Operating Mode                                | 
 |------------------------|------------------------|------------------------------------------------------|
