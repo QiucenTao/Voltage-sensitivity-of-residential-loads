@@ -1,6 +1,8 @@
 # Dataset of Power-to-Voltage Sensitivity of Residential Loads v2.0.0
 updated: 12.03.2024
 
+[![DOI](https://zenodo.org/badge/716983165.svg)](https://zenodo.org/doi/10.5281/zenodo.10809111)
+
 This repository provides time-varying voltage sensitivity profiles of common residential loads. The results are obtained through experiments on actual appliances operating under realistic conditions. 
 
 The power-to-voltage sensitivity, $n_{pv}$ or $n_{qv}$, describes how the load power consumption changes when the voltage magnitude changes. It provides the ratio of power variation (in percentage) to voltage variation (in percentage).
