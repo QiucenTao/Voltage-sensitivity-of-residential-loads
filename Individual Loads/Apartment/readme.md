@@ -9,7 +9,7 @@ The time-varying voltage sensitivity of an apartment is shown in the figure belo
 - The second slot presents cooking time for breakfast, where the induction stove, water kettle, and toaster are switched on one after another. The latter two appliances are turned off after a few minutes and the induction stove operates until 7:00. 
 - During the third time slot, the users leave for work and only the fridge and freezer are on. 
 - During the fourth time slot, the washing machine, dishwasher, and cloth dryer operate. DuThey have multiple operating phases during an operating cycle
-- Another cooking phase for dinner preparation occurs in the fifth time slot, during which the oven, induction stove, and cooker hood are used. The oven causes frequent and large active power and Kpv variation, which will not be overseen with minute range resolution.
+- Another cooking phase for dinner preparation occurs in the fifth time slot, during which the oven, induction stove, and cooker hood are used. The oven causes frequent and large active power and $n_{pv}$ variation, which will not be overseen with minute range resolution.
 - The last time slot is similar to the first one with fewer halogen lights turning on.
   
 ![Apartment_Sensitivit_Profile_WithoutHeater](../z_Sensitivity_img/Apartment_NoHeater.svg)
