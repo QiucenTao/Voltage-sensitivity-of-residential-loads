@@ -1,5 +1,5 @@
 # Dataset of Power-to-Voltage Sensitivity of Residential Loads v2.0.0
-updated: 28.02.2024
+updated: 12.03.2024
 
 This repository provides time-varying voltage sensitivity profiles of common residential loads. The results are obtained through experiments on actual appliances operating under realistic conditions. 
 
