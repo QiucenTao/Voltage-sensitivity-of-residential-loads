@@ -3,23 +3,23 @@ updated: 28.02.2024
 
 This repository provides time-varying voltage sensitivity profiles of common residential loads. The results are obtained through experiments on actual appliances operating under realistic conditions. 
 
-The power-to-voltage sensitivity describes how the load power consumption changes when the voltage changes. It provides the ratio of power variation (in percentage) to voltage variation (in percentage).
+The power-to-voltage sensitivity, $n_{pv}$ or $n_{qv}$, describes how the load power consumption changes when the voltage magnitude changes. It provides the ratio of power variation (in percentage) to voltage variation (in percentage).
 
 ## Versions
 version v1.0.0 (last update date: 01.11.2023) can be found [here](https://github.com/QiucenTao/Voltage-sensitivity-of-residential-loads/tree/branch-v1.0.0)
 
 **What's new in v2.0.0:**
-* new loads added
+* update the database with voltage sensitivity profiles of new loads, e.g. an air conditioner
 * a detailed explanation of the load behavior during the tested scenario is provided in the "Individual Loads" folder   
-* updated the voltage sensitivity profile data, provide the new data as csv files in the "Sensitivity Dataset" folder
-* the average sensitivity, rated power values, and the range of the voltage and operating power, namely the maximum and minimum values during the tested scenarios are provided.
+* the voltage sensitivity profile is provided in both csv and mat format in the "Sensitivity Dataset" folder
+* in Table II below, the minimum and maximum values of the voltage sensitivity and power are added to show the range of the voltage sensitivity during a certain operation mode. 
 
 ## Contact
 Qiucen Tao (qiucen.tao@kit.edu)
 
 ## Dataset Overview
 
-The loads under test, their brand and model, and the specific operating mode selected for testing are provided in Table I. The voltage sensitivity of a load is calculated every 15 seconds during the operation and the minimum, maximum, and average values and the respective operating power are provided in Table II. Kpv and Kqv represent the active power and reactive power-to-voltage sensitivity respectively. The table provides information on e.g. the range of the voltage sensitivity and the sensitivity impact of each load on the power system, according to the power consumption.
+The loads under test, their brand and model, and the specific operating mode selected for testing are provided in Table I. The voltage sensitivity of a load is calculated every 15 seconds during the operation and the minimum, maximum, and average values and the respective operating power are provided in Table II. $n_{pv}$ and $n_{qv}$ represent the active power and reactive power-to-voltage sensitivity respectively. The table provides information on e.g. the range of the voltage sensitivity and the sensitivity impact of each load on the power system, according to the power consumption.
 ### Table I. List of Loads Under Test
 | Load                   | Brand and Model       | Tested Operating Mode                                | 
 |------------------------|------------------------|------------------------------------------------------|
@@ -51,12 +51,12 @@ The loads under test, their brand and model, and the specific operating mode sel
 <sup>b</sup> Model number not available
 
 ### Table II. Overview of Load Voltage Sensitivity Results
-|  Load                      |          |    Kpv    |           |          |    Kqv    |           |           |   P0 (W)   |           |           |   Q0 (var)  |           |  Data Length |
+|  Load                      |          |  $n_{pv}$  |           |          |  $n_{qv}$  |           |           |  $P_0$ (W) |           |           | $Q_0$ (var) |           |  Data Length |
 |----------------------------|----------|-----------|-----------|----------|-----------|-----------|-----------|------------|-----------|-----------|-------------|-----------|--------------|
 |                            | **min**  | **mean**  | **max**   | **min**  | **mean**  |  **max**  | **min**   | **mean**   | **max**   | **min**   |   **mean**  |  **max**  |              |
 | Apartment                  |  0.00    | 0.87      | 1.98      |  0.00    | 1.15      | 1.91      |    32     |    1399    |  5876     |    265    |     386     |    716    |   5 hour     |
 | Apartment with aggregated Heater|  0.00   | 1.48    | 1.98     |  -       |    -      |    -     |    32     |    2618    |  7368     |     -     |     -       |     -     |   5 hour     |
-| Air Conditioner            |  0.30    | 0.32      | 0.36      |  2.52    | 2.76      | 2.93      |    904    |    924     |  933      |     126   |     129     |     131   |    4530 s    |
+| Air Conditioner            |  0.30    | 0.83      | 1.75      |  0.00    | 2.29      | 5.95      |    51     |    595     |  929      |     10   |     85     |     158   |    4200 s    |
 | Cloth dryer                |  1.10    | 1.73      | 2.01      |  0.00    | 0.53      | 1.30      |    97     |    1268    |  2777     |     25    |     56      |     76    |    6960 s    |
 | Cooker hood                |  2.19    | 2.21      | 2.22      |  2.76    | 2.77      | 2.79      |    121    |    122     |  123      |     90    |     92      |     93    |    750 s     |
 | Dishwasher                 |  0.00    | 0.55      | 1.94      |  0.00    | 1.01      | 2.79      |    8      |    557     |  2025     |     18    |     79      |     114   |    2340 s    |

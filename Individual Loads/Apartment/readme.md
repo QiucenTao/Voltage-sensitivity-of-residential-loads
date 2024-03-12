@@ -2,8 +2,7 @@
 
 The power consumption of a 2-person apartment over 24 hours is reconstructed with an apartment-like laboratory. The voltage sensitivity profiles under 2 scenarios are provided.
 
-## Scenario 1: Reconstructed 24-hour Power Profile 
-### Voltage Sensitivity Profile and Description
+## Scenario 1: 24-hour Power and Voltage Sensitivity Profile 
 The time-varying voltage sensitivity of an apartment is shown in the figure below, the 5-hour test can be separated into 4 power consumption scenarios: cooking, housework, away/sleeping, and rest at home, marked out with dashed lines and numbers. Cooking involves loads such as stoves, ovens, toasters, etc. Housework involves loads like washing machines, dishwashers, vacuum cleaners, etc. The power consumption during away and sleeping is similar, mainly from loads like fridges and freezers and the standby power of other loads. When the user is at home with low power consumption, such as working from home or watching TV, it is categorized as rest at home.
 - During the experiment, the fridge and the freezer were always running. 
 - In the first time slot, halogen lights are turned on as the users wake up.
