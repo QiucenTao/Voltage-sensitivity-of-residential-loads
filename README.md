@@ -1,5 +1,5 @@
 # Dataset of Power-to-Voltage Sensitivity of Residential Loads v2.0.0
-updated: 12.03.2024
+updated: 02.04.2025
 
 [![DOI](https://zenodo.org/badge/716983165.svg)](https://zenodo.org/doi/10.5281/zenodo.10809111)
 
